@@ -1,5 +1,17 @@
 
 
+## [1.2.0](https://github.com/jojosuelobo/teste-changelog/compare/1.1.0...1.2.0) (2024-01-25)
+
+
+### Features
+
+* added <p> message ([ab266af](https://github.com/jojosuelobo/teste-changelog/commit/ab266affc4900f7f6adef0d3035d5a1831271d5f))
+
+
+### Bug Fixes
+
+* Fix the language to english ([9fdc541](https://github.com/jojosuelobo/teste-changelog/commit/9fdc54125b948ec52cf4024462a85fa113008f56))
+
 ## 1.1.0 (2024-01-25)
 
 
