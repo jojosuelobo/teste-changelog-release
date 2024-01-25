@@ -1,5 +1,12 @@
 
 
+## [1.4.0](https://github.com/jojosuelobo/teste-changelog/compare/1.3.0...1.4.0) (2024-01-25)
+
+
+### Features
+
+* other branch stuff ([f33fa6f](https://github.com/jojosuelobo/teste-changelog/commit/f33fa6f9e38970a19ec0f7559b1727aa82efa5b3))
+
 ## [1.3.1](https://github.com/jojosuelobo/teste-changelog/compare/1.3.0...1.3.1) (2024-01-25)
 
 ## [1.3.0](https://github.com/jojosuelobo/teste-changelog/compare/1.2.0...1.3.0) (2024-01-25)
