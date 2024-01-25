@@ -1,5 +1,13 @@
 
 
+## [1.3.0](https://github.com/jojosuelobo/teste-changelog/compare/1.2.0...1.3.0) (2024-01-25)
+
+
+### Features
+
+* last commit with HTML ([aa12995](https://github.com/jojosuelobo/teste-changelog/commit/aa129956428f117e0c992c7f33525c7fad3c3a09))
+* trying commit with visualStudio ([9afe368](https://github.com/jojosuelobo/teste-changelog/commit/9afe368dc7e79f0c87d009c0c123333c57de80b2))
+
 ## [1.2.0](https://github.com/jojosuelobo/teste-changelog/compare/1.1.0...1.2.0) (2024-01-25)
 
 
