@@ -1,5 +1,12 @@
 
 
+## [1.7.0](https://github.com/jojosuelobo/teste-changelog-release/compare/1.6.0...1.7.0) (2024-01-29)
+
+
+### Features
+
+* added reference ([304962c](https://github.com/jojosuelobo/teste-changelog-release/commit/304962c7c9b5b6eab0114ad9a3fa5ffe63af4379))
+
 ## [1.6.0](https://github.com/jojosuelobo/teste-changelog-release/compare/1.5.0...1.6.0) (2024-01-29)
 
 
