@@ -1,5 +1,12 @@
 
 
+## [1.6.0](https://github.com/jojosuelobo/teste-changelog-release/compare/1.5.0...1.6.0) (2024-01-29)
+
+
+### Features
+
+* add ([9ff341d](https://github.com/jojosuelobo/teste-changelog-release/commit/9ff341d82a9de599d46fe852966143b1161e57b6))
+
 ## [1.5.0](https://github.com/jojosuelobo/teste-changelog-release/compare/1.4.0...1.5.0) (2024-01-29)
 
 
