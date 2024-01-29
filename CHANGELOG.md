@@ -1,5 +1,13 @@
 
 
+## [1.5.0](https://github.com/jojosuelobo/teste-changelog-release/compare/1.4.0...1.5.0) (2024-01-29)
+
+
+### Features
+
+* addead 1.0 ([f1d98fa](https://github.com/jojosuelobo/teste-changelog-release/commit/f1d98fa257ebe7f2c217737eff3d293c7272f809))
+* second add ([45f8ec2](https://github.com/jojosuelobo/teste-changelog-release/commit/45f8ec2fbf70840a457cd43bb120be92f5e71313))
+
 ## [1.4.0](https://github.com/jojosuelobo/teste-changelog/compare/1.3.0...1.4.0) (2024-01-25)
 
 

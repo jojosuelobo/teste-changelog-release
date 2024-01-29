@@ -1,6 +1,6 @@
 {
   "name": "teste-changelog",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "teste para release do github",
   "main": "index.js",
   "scripts": {
