@@ -1,5 +1,7 @@
 
 
+* feat: minor change (9dcb8b0)
+
 ## [1.7.1](https://github.com/jojosuelobo/teste-changelog-release/compare/1.7.0...1.7.1) (2024-01-29)
 
 ## [1.7.0](https://github.com/jojosuelobo/teste-changelog-release/compare/1.6.0...1.7.0) (2024-01-29)
