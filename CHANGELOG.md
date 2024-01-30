@@ -1,5 +1,13 @@
 
 
+## [1.9.0](https://github.com/jojosuelobo/teste-changelog/compare/1.8.0...1.9.0) (2024-01-30)
+
+
+### Features
+
+* minor change ([a9e1b3e](https://github.com/jojosuelobo/teste-changelog/commit/a9e1b3e6d266208da9aa01e2ea133ed8c51a61d1))
+* minor change ([9dcb8b0](https://github.com/jojosuelobo/teste-changelog/commit/9dcb8b06fdf5d112561d2ae92b58214b0a1b6f38))
+
 * feat: minor change (9dcb8b0)
 
 ## [1.7.1](https://github.com/jojosuelobo/teste-changelog-release/compare/1.7.0...1.7.1) (2024-01-29)
